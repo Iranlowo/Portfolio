@@ -16,9 +16,13 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 A glimpse of some of the projects I've been working on.
 
 Predictive Modeling and Hypothesis Testing using Blinkit Dataset.
-It explains the Sales of a particular food items store over the year 2012-2022.
+
+It explains the Sales of a food items store over the year 2012-2022.
+
 The best selling products and least selling products.
-Fat content of the items, how they are grouped into (Low Fat, Regular)
+
+Fat content of the items, how they are grouped into (Low Fat, Regular).
+
 With the store having 3 outlets
 ![image](Blinkit Data.jpg)
 
