@@ -29,7 +29,7 @@ With the store having 3 outlets
 
 Predictive Modeling and Hypothesis Testing using Titanic Dataset.
 
-![image](3 anie data analytics agro project.jpg)
+![image](HR Analysis.jpg)
 
 
 
