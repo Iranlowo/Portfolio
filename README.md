@@ -1,7 +1,11 @@
 # Iranlowo Portfolio
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
-Hello! I'm Iranlowo Adedoja 🤓, an entry-level data analyst, with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Iranlowo Adedoja 🤓, I'm an intermediate data analyst skilled in gathering, analyzing, and interpreting data to drive business decisions. I bring a unique perspective to data analytics. My skills are focused on gathering and processing data to uncover insights that assist companies in streamlining operations and enhancing customer satisfaction by identifying trends and patterns.
+
+I thrive in environments where I can collaborate with cross-functional teams, utilizing tools like Excel, SQL, and Power BI to deliver actionable insights. My experience working in the event industry has honed my ability to solve complex problems.
+
+As someone dedicated to growth and development in my field of expertise I am excited, about using my skills, in data analysis to contribute to innovative projects, drive business outcomes, and fuel growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -35,7 +39,8 @@ Over the year 2014 & 2015.
 
 ![image](HR Analysis.jpg)
 
-
+Predictive Modeling and Hypothesis Testing using HR Analysis Dataset.
+![image]("tffyfykjghhjh")
 
 ## CONTACT DETAILS
 
