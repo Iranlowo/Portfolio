@@ -27,7 +27,11 @@ With the store having 3 outlets
 ![image](Blinkit Data.jpg)
 
 
-Predictive Modeling and Hypothesis Testing using Titanic Dataset.
+Predictive Modeling and Hypothesis Testing using HR Analysis Dataset.
+
+An analysis of an HR: Records of the company's employee.
+
+Over the year 2014 & 2015.
 
 ![image](HR Analysis.jpg)
 
